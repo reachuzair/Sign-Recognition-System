@@ -16,11 +16,6 @@
 <p>Run ROIinOpenCV.py</p>
 Pytorch Implementation is given in sign_language_pytorch.ipynb
 
-
-![Screenshot 2019-03-31 at 2 35 30 PM](https://user-images.githubusercontent.com/29236532/55287090-3f2a2c00-53c2-11e9-92ac-2b04f391b06d.png)
-
-
-
 <p>Read the entire process at:</p>
 <link>http://arshad-kazi.com/sign-language-recognition-using-cnn-and-opencv/</link>
 
